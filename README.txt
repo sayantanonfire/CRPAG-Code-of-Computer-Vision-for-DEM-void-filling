@@ -134,6 +134,6 @@ Terrain continuity restoration in rugged mountainous DEMs.
 📬 Contact
 
 For algorithm-related issues or collaboration:
-📧 Sayantan Mandal – sayantanonfire@gmail.com
+📧 Sayantan Mandal (Email) – sayantanonfire@gmail.com
 
-🔗 LinkedIn – Sayantan Mandal
+🔗 LinkedIn – https://www.linkedin.com/in/sayantan-mandal-36a296213/
